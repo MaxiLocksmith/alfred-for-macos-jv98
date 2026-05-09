@@ -1,4 +1,4 @@
-
+rare Alfred for macOS Utility | malware-scanner + disk-analysis is the best Alfred for macOS utility, featuring malware-scanner and disk-analysis. Safe, efficient, and optimized
 
 
 
